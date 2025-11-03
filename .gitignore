@@ -54,6 +54,7 @@ externals/autotools/include
 externals/autotools/share
 externals/autotools/lib
 externals/tecio/boost
+externals/openmpi-5.0.8
 
 #logs and errors
 *.log
